@@ -2,13 +2,13 @@
 ## Project Overview
 The Vrinda Store wants to create and annual sales report. So, the owner can understand customer behavior and increase the sales in the next year.
 ## Table of Contents
-1.[Questions to be Answered](#Questions-to-be-Answered)
-2.[Data Cleaning](#Data-Cleaning)
-2.[Data Processing](#Data-Processing)
-3.[Data Analysis](#Data-Analysis)
-4.[Dashboard Creation](#Dasboard-Creation)
-5.[Insights](#Insights)
-6.[Conclusion](#Conclusion)
+1. [Questions to be Answered](#Questions-to-be-Answered)
+2. [Data Cleaning](#Data-Cleaning)
+3. [Data Processing](#Data-Processing)
+4. [Data Analysis](#Data-Analysis)
+5. [Dashboard Creation](#Dasboard-Creation)
+6. [Insights](#Insights)
+7. [Conclusion](#Conclusion)
 ## Question to be Answered
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
