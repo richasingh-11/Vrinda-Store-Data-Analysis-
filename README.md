@@ -25,3 +25,4 @@ Two columns were created names as Age Group and Month for better calculations an
 ## Data Analysis
 Creating Pivot table for the analysis of the given dataset.
 ## Dashboard Creation
+![Screenshot 2025-03-13 204000](https://github.com/user-attachments/assets/c8c893bc-fcad-4d31-87de-175523ad30ba)
