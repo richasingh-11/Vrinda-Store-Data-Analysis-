@@ -8,7 +8,6 @@ The Vrinda Store wants to create and annual sales report. So, the owner can unde
 4. [Data Analysis](#Data-Analysis)
 5. [Dashboard Creation](#Dasboard-Creation)
 6. [Insights](#Insights)
-7. [Conclusion](#Conclusion)
 ## Question to be Answered
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
@@ -26,3 +25,9 @@ Two columns were created names as Age Group and Month for better calculations an
 Creating Pivot table for the analysis of the given dataset.
 ## Dashboard Creation
 ![Screenshot 2025-03-13 204000](https://github.com/user-attachments/assets/c8c893bc-fcad-4d31-87de-175523ad30ba)
+## Insights
+1. Women customers buy more products compared to men (~65%).
+2. The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+3. The adult age group (30-49 yrs) is contributes (~50%) maximum and buys the most products.
+4. The maximum number of products customer orders from Amazon, Myntra and Flipkart channels.
+
